@@ -26,4 +26,4 @@ racket sum_two_numbers.scm
 
 **NOTES**
 
-- File extension `.scm` is used for the Scheme dialect of Lisp
+- File extension `.scm` is used for the [Scheme](https://www.scheme.org/) dialect of [Lisp](https://lisp-lang.org/)
